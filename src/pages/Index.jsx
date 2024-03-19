@@ -68,7 +68,7 @@ const Index = () => {
         <Box as="section" w="full">
           <Heading as="h3" size="md" mb={4} display="flex" alignItems="center">
             <FaInfoCircle style={{ marginRight: "8px" }} />
-            Trip Information
+            Trip Info
           </Heading>
           <Text fontSize="md" mb={4}>
             This autumn, we're heading out to enjoy the beauty of nature together. Pack your bags, bring your best vibes, and get ready for a weekend filled with laughter, camping, hiking, and memorable moments.
